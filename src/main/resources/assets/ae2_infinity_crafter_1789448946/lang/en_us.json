@@ -1,0 +1,17 @@
+{
+  "block.ae2_infinity_crafter_1789448946.infinity_cell_crafter": "Infinity Cell Crafter",
+  "item.ae2_infinity_crafter_1789448946.infinity_cell": "Infinity Cell",
+  "item.ae2_infinity_crafter_1789448946.infinity_cell_chip": "Infinity Cell Chip",
+  "item.ae2_infinity_crafter_1789448946.infinity_cell_chip.contains": "Target resource: %s",
+  "item.ae2_infinity_crafter_1789448946.infinity_cell_housing": "Infinity Cell Housing",
+  "item.ae2_infinity_crafter_1789448946.purified_singularity": "Purified Singularity",
+  "gui.ae2_infinity_crafter_1789448946.progress_tooltip": "Accumulated %s / %s (%s%%)",
+  "gui.ae2_infinity_crafter_1789448946.energy_tooltip": "Energy %s / %s AE (%s)",
+  "gui.ae2_infinity_crafter_1789448946.network_online": "AE network: powered",
+  "gui.ae2_infinity_crafter_1789448946.network_offline": "AE network: no power",
+  "gui.ae2_infinity_crafter_1789448946.conflict_short": "Input conflict!",
+  "gui.ae2_infinity_crafter_1789448946.conflict_tooltip": "Multiple resources in the input cell reached the threshold; crafting refused",
+  "message.ae2_infinity_crafter_1789448946.multiple_over_threshold": "%s+ multiple items exceed the threshold",
+  "commands.ae2_infinity_crafter_1789448946.set_requirement": "Infinity Cell Crafter requirement set to %s",
+  "commands.ae2_infinity_crafter_1789448946.query_requirement": "Infinity Cell Crafter requirement is %s"
+}

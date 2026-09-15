@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_purified_singularity": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "ae2_infinity_crafter_1789448946:purified_singularity"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ae2_infinity_crafter_1789448946:infinity_cell_housing"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_purified_singularity",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ae2_infinity_crafter_1789448946:infinity_cell_housing"
+    ]
+  },
+  "sends_telemetry_event": false
+}

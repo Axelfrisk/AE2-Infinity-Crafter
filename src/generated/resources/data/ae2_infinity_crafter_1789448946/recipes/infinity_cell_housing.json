@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "N": {
+      "item": "minecraft:netherite_block"
+    },
+    "Q": {
+      "item": "ae2:quartz_glass"
+    },
+    "S": {
+      "item": "ae2_infinity_crafter_1789448946:purified_singularity"
+    }
+  },
+  "pattern": [
+    "QDQ",
+    "DSD",
+    "NNN"
+  ],
+  "result": {
+    "item": "ae2_infinity_crafter_1789448946:infinity_cell_housing"
+  },
+  "show_notification": true
+}

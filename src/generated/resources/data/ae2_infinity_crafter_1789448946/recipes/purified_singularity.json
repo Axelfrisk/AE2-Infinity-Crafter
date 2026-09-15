@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "type": "forge:partial_nbt",
+      "item": "ae2_infinity_crafter_1789448946:infinity_cell_chip",
+      "nbt": "{ChipKey:{\"#c\":\"ae2:i\",id:\"ae2:singularity\"}}"
+    }
+  },
+  "pattern": [
+    "CC",
+    "CC"
+  ],
+  "result": {
+    "item": "ae2_infinity_crafter_1789448946:purified_singularity"
+  },
+  "show_notification": true
+}

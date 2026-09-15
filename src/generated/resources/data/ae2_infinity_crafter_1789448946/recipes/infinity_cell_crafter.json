@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "Q": {
+      "item": "minecraft:quartz_block"
+    }
+  },
+  "pattern": [
+    "DQD",
+    "QNQ",
+    "DQD"
+  ],
+  "result": {
+    "item": "ae2_infinity_crafter_1789448946:infinity_cell_crafter"
+  },
+  "show_notification": true
+}
